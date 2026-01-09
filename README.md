@@ -15,7 +15,6 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since I wrote my first "Hello World"<br>
   📚 Currently learning everything I can get my hands on — from low-level concepts to modern frameworks<br>
   🎯 Goals: become a well-rounded developer with a solid foundation in AI and scalable systems<br>
   🎲 Fun fact: I enjoy understanding how things work under the hood almost as much as making them work
