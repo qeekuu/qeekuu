@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is Filip and I'm a Computer Science student with a strong interest in
+  I'm a Computer Science student with a strong interest in
   software engineering, artificial intelligence, and modern applications — both
   frontend and backend.
 </p>
