@@ -1,23 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
 
 <p align="left">
-  I'm a Computer Science student with a strong interest in
-  software engineering, artificial intelligence, and modern applications — both
-  frontend and backend.
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  📚 Currently learning everything I can get my hands on — from low-level concepts to modern frameworks<br>
-  🎯 Goals: become a well-rounded developer with a solid foundation in AI and scalable systems<br>
-  🎲 Fun fact: I enjoy understanding how things work under the hood almost as much as making them work
+  I'm a Computer Science student constantly experimenting with different technologies.
+  While I enjoy full-stack development, my main focus is on artificial intelligence,
+  system design, and understanding how software behaves at scale.
+  I value clean architecture, solid fundamentals, and learning by building.
 </p>
 
 ###
@@ -72,10 +58,3 @@
 </div>
 
 ###
-
-<p align="left">
-  I'm a Computer Science student constantly experimenting with different technologies.
-  While I enjoy full-stack development, my main focus is on artificial intelligence,
-  system design, and understanding how software behaves at scale.
-  I value clean architecture, solid fundamentals, and learning by building.
-</p>
