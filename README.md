@@ -6,6 +6,9 @@ and system design**, with a strong interest in how software behaves at scale.
 - Artificial Intelligence & Machine Learning  
 ## 🛠️ Technical Exposure
 **Languages:** "Java, C/C++, C#, Python, JavaScript, TypeScript, MPASM"
+
 **Backend & Data:** "SQL (PostgreSQL, PL/SQL), REST APIs, json-server"
+
 **Frontend:** "React, Angular"
+
 **Systems & Workflow:** "Linux, Neovim, UML (System Modeling)"
