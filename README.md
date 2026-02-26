@@ -1,4 +1,4 @@
-## About Me
+## 👨‍💻 About Me
 Computer Science student **focused on software engineering, artificial intelligence,  
 and system design**, with a strong interest in how software behaves at scale.
 
