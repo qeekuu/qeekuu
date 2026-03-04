@@ -8,7 +8,7 @@ and system design**, with a strong interest in how software behaves at scale.
 ## 🛠️ Technical Exposure
 **Languages:** "Java, C/C++, Python, JavaScript, TypeScript, MPASM"
 
-**Backend & Data:** "SQL (PostgreSQL, PL/SQL), REST APIs, json-server"
+**Backend & Data:** "SQL (PostgreSQL, PL/SQL), REST APIs"
 
 **Frontend:** "React, Angular"
 
