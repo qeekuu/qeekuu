@@ -8,8 +8,8 @@ and system design**, with a strong interest in how software behaves at scale.
 ## 🛠️ Technical Exposure
 **Languages:** "Java, C/C++, JavaScript, TypeScript, MPASM"
 
-**Backend & Data:** "SQL, REST APIs"
+**Backend & Data:** "SQL, REST APIs, Java SpringBoot, Hibernate"
 
-**Frontend:** "React"
+**Frontend:** "React, React Native, HTML, CSS, TailwindCSS"
 
 **Systems & Workflow:** "Linux, Neovim, UML (System Modeling)"
